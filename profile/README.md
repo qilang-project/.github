@@ -19,6 +19,7 @@
 | [qi-vscode](https://github.com/qilang-project/qi-vscode) | VS Code 扩展 — 语法高亮与代码片段 |
 | [qi-gui](https://github.com/qilang-project/qi-gui) | GUI 库 — 跨平台图形界面支持 |
 | [qi-tools](https://github.com/qilang-project/qi-tools) | 开发工具集 — 包含 `qifmt` 格式化工具 |
+| [qi-web](https://github.com/qilang-project/qi-web) | Web 框架 — 用奇语言编写 HTTP 服务，参考 FastAPI/Express |
 | [qi-cli](https://github.com/qilang-project/qi-cli) | CLI 框架 — 用奇语言编写命令行应用 |
 | [qi-installer](https://github.com/qilang-project/qi-installer) | 安装器 — 跨平台安装包生成 |
 
