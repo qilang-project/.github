@@ -1,6 +1,8 @@
 # 奇语言 · Qi Language
 
-> 100% 中文关键字的编译型编程语言 — LLVM 原生后端 · ARC 自动内存管理 · Go 风格并发
+> **中文思考,原生速度。** Think in Chinese, run at native speed.
+>
+> 奇语言不是翻译贴皮——关键字、类型、异常、并发,从源码到机器码全程中文表达,性能与 Go 同场竞技。
 
 **官网 [qilang.org](https://qilang.org)** · [下载 2026.07.03-1](https://github.com/qilang-project/qi/releases/latest) · macOS / Linux / Windows
 
