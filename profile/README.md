@@ -4,7 +4,7 @@
 >
 > 奇语言不是翻译贴皮——关键字、类型、异常、并发,从源码到机器码全程中文表达,性能与 Go 同场竞技。
 
-**官网 [qilang.org](https://qilang.org)** · [下载 2026.07.03-1](https://github.com/qilang-project/qi/releases/latest) · macOS / Linux / Windows
+**官网 [qilang.org](https://qilang.org)** · [下载 2026.07.03-2](https://github.com/qilang-project/qi/releases/latest) · macOS / Linux / Windows
 
 ```qi
 包 主程序;
@@ -52,8 +52,8 @@ qi 运行 你好.qi     # 中文命令等价
 
 ```bash
 # 下载解压即用(以 macOS Apple Silicon 为例)
-curl -LO https://github.com/qilang-project/qi/releases/download/2026.07.03-1/qi-2026.07.03-1-macos-arm64.tar.gz
-tar xzf qi-2026.07.03-1-macos-arm64.tar.gz
+curl -LO https://github.com/qilang-project/qi/releases/download/2026.07.03-2/qi-2026.07.03-2-macos-arm64.tar.gz
+tar xzf qi-2026.07.03-2-macos-arm64.tar.gz
 ./bin/qi --version
 ```
 
